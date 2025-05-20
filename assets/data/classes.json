@@ -1,0 +1,152 @@
+[
+  {
+    "class_id": 1,
+    "course_id": 1,
+    "term": "Spring",
+    "section": "L01",
+    "instructor_id": 23445,
+    "capacity": 40,
+    "status": "validated",
+    "registered_students": []
+  },
+  {
+    "class_id": 2,
+    "course_id": 1,
+    "term": "Spring",
+    "section": "L02",
+    "instructor_id": 23446,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 3,
+    "course_id": 2,
+    "term": "Fall",
+    "section": "L01",
+    "instructor_id": 23445,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 4,
+    "course_id": 2,
+    "term": "Fall",
+    "section": "L02",
+    "instructor_id": 23447,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 5,
+    "course_id": 3,
+    "term": "Fall",
+    "section": "L01",
+    "instructor_id": 23445,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 6,
+    "course_id": 3,
+    "term": "Fall",
+    "section": "L02",
+    "instructor_id": 23451,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 7,
+    "course_id": 4,
+    "term": "Spring",
+    "section": "L01",
+    "instructor_id": 23449,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 8,
+    "course_id": 5,
+    "term": "Spring",
+    "section": "L01",
+    "instructor_id": 23446,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 9,
+    "course_id": 6,
+    "term": "Fall",
+    "section": "L01",
+    "instructor_id": 23448,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 10,
+    "course_id": 7,
+    "term": "Fall",
+    "section": "L01",
+    "instructor_id": 23448,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 11,
+    "course_id": 8,
+    "term": "Fall",
+    "section": "L01",
+    "instructor_id": 23448,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 12,
+    "course_id": 9,
+    "term": "Spring",
+    "section": "L01",
+    "instructor_id": 23450,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 13,
+    "course_id": 10,
+    "term": "Fall",
+    "section": "L01",
+    "instructor_id": 23451,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 14,
+    "course_id": 11,
+    "term": "Spring",
+    "section": "L01",
+    "instructor_id": 23452,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  },
+  {
+    "class_id": 15,
+    "course_id": 7,
+    "term": "Fall",
+    "section": "L02",
+    "instructor_id": 23448,
+    "capacity": 40,
+    "status": "open-for-registration",
+    "registered_students": []
+  }
+]
